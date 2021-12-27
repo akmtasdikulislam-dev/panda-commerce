@@ -98,3 +98,16 @@ section{
 footer> p{
     text-align: center;
 }
+.input-field{
+    width: 50%;
+}
+.search-bar{
+    background-color: rgb(240, 240, 240);
+    border: none;
+    border-radius: 40px 0px 0px 40px;
+}
+.btn-search{
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+    background-color: rgb(240, 240, 240);
+}
